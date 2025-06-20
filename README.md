@@ -12,7 +12,7 @@
 > A ideia é trazer a produtividade e a disciplina das formigas para a sua vida pessoal e profissional.
 
 ## 🚧 Status do Projeto  
-🔧 Em desenvolvimento — novas funcionalidades estão sendo implementadas!
+🔧 Em desenvolvimento - Atualização do banco de dados e algumas outras funcionalidades.
 
 ## ✨ Funcionalidades  
 - ✅ **Cronograma semanal** com tarefas organizadas por dia  
@@ -28,21 +28,6 @@
 - HTML5  
 - CSS3  
 
-## 💻 Como rodar o projeto  
-
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
-   ```
-
-2. Coloque o projeto em um servidor local (ex: XAMPP, WampServer, Laragon)
-
-3. Acesse pelo navegador:  
-   ```
-   http://localhost/nomedapasta
-   ```
-
-> Certifique-se de que o Apache esteja ativo.
 
 ## 📸 Demonstração  
 
