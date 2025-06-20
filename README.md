@@ -36,7 +36,7 @@
 *Permite adicionar tarefas por dia da semana com opção de marcar como concluída*
 
 ### 📁 Tarefas de Projetos  
-![Tarefas de Projetos](./antodo-prototipagem-tp-projetos.png)  
+![Tarefas de Projetos](readme-media/antodo-prototipagem-tp-projetos.png)  
 *Gerencie projetos com tarefas, datas e opções de exclusão*
 
 ## 🙋‍♀️ Autora  
