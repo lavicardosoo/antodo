@@ -32,7 +32,7 @@
 ## 📸 Demonstração  
 
 ### 📅 Cronograma Semanal  
-![Cronograma Semanal](./antodo-prototipagem-cs.png)  
+![Cronograma Semanal](readme-media/antodo-prototipagem-cs.png)  
 *Permite adicionar tarefas por dia da semana com opção de marcar como concluída*
 
 ### 📁 Tarefas de Projetos  
