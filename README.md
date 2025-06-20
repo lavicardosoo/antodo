@@ -37,7 +37,9 @@
 
 ### 📁 Tarefas de Projetos  
 ![Tarefas de Projetos](readme-media/antodo-prototipagem-tp-projetos.png)  
+![Tarefas de Projetos - Tela 2](readme-media/antodo-prototipagem-tarefas-de-projetos.png)  
 *Gerencie projetos com tarefas, datas e opções de exclusão*
 
-## 🙋‍♀️ Autora  
-Feito com 💖 por **Lavi**
+### 📁 Gerenciador Financeiro 
+![Tarefas de Projetos](readme-media/antodo-prototipagem-gf.png)  
+*Administre seus ganhos e gastos*
